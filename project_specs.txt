@@ -1,0 +1,6 @@
+have a home page describing the site
+have an about us page
+have a services page
+have a contact page
+have a support page
+fill with content from chase empire
